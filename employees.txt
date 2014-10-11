@@ -1,0 +1,15 @@
+Michael Scott
+Regional Manager
+15.00
+
+Dwight Schrute
+Sales Representative
+18.00
+
+Jim Halpert
+Sales Representative
+25.00
+
+Pam Beesly
+Receptionist
+12.00
